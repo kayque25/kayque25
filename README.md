@@ -1,16 +1,34 @@
-## Hi there 👋
+## 🌍 Hello, hello!  
+I'm Kayque Dias, a geographer and researcher in geotechnologies!  
 
-<!--
-**kayque25/kayque25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Bachelor’s in Geography | Master’s Student**  
+📡 **Remote Sensing | GIS | Google Earth Engine**  
+📊 **Environmental Analysis | Applied Programming**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛰️ Technologies & Interests:  
+🌱 **Geoprocessing | GIS | Environmental Modeling**  
+📌 **Google Earth Engine | QGIS | RStudio**  
+📊 **Programming Languages: JavaScript, Python, R**  
+🎨 **Thematic Mapping | Statistical Analysis**  
+
+---
+
+### 📊 My GitHub Stats:  
+
+⭐ **Total Stars:** X  
+🔄 **Total Commits:** Y  
+🚀 **PRs Contributed:** Z  
+
+📌 **Most Used Languages:**  
+🟡 Python XX% | 🔵 R XX% | 🟠 JavaScript XX%  
+
+---
+
+### 🌐 Find me online:  
+[![Lattes](https://img.shields.io/badge/-Lattes-4169E1?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/5961292748412062)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kayque-dias-627a64244/)  
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Kayque-Dias?ev=hdr_xprf)  
+
+☕ **Support me:** [Buy me a coffee](https://www.buymeacoffee.com/yourprofile)  
