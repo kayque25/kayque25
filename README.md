@@ -22,6 +22,6 @@
   <br>
   <br>
   <a href="https://www.paypal.com/donate?hosted_button_id=E8X9RDN65GFLW">
-  <img align="center" src="https://github.com/kayque25/logos/blob/main/acaii.png?raw=true" height="50" width="210" alt="Buy me an açaí"/>
+  <img align="center" src="https://github.com/kayque25/logos/blob/main/acaii.png?raw=true" height="100" width="210" alt="Buy me an açaí"/>
 </a>
 </p>
