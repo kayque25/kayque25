@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/kayque25/kayque25/blob/main/your-image.png" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4CAF50&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=🌍+Hello,+hello!;I'm+Kayque+Dias,+a+geographer+and+researcher+in+UFPA" width="50%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4CAF50&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=🌍+Hi!;I'm+Kayque+Dias,+a+geographer+and+researcher+in+UFPA" width="50%" />
 <br><br>
 <pre>
     📌 Bachelor’s in Geography | Master’s Student
