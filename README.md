@@ -7,7 +7,8 @@
     🛰️ Remote Sensing | GIS | Google Earth Engine
     📊 Environmental Analysis | Applied Programming
 </pre>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/vallauri-ict/formula-1-thespino/master/assets/f1-illustration.gif" height="40" />
+
 <br>
     
 [![](https://img.shields.io/badge/Lattes-004080?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/5961292748412062)
