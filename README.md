@@ -21,5 +21,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayque25&theme=darcula&hide_border=true&background=FFFFFF00&stroke=4CAF50&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&dates=C0C0C0&sideNums=C0C0C0&currStreakNum=C0C0C0" alt="GitHub Streak Stats">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/yourprofile"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="Buy me a coffee" /></a>
+  <a href="https://www.paypal.com/donate?hosted_button_id=E8X9RDN65GFLW"> 
+  <img align="center" src="https://cdn.buymeaacai.com/buttons/v2/default-green.png" height="50" width="210" alt="Buy me an açaí" />
+</a>
 </p>
