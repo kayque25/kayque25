@@ -1,13 +1,19 @@
 <div align="center">
-<img src="https://github.com/kayque25/logos/blob/main/moon.gif?raw=true" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4CAF50&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=🌍+Hi!;I'm+Kayque+Dias,+a+geographer+and+researcher+in+UFPA" width="50%" />
-<br><br>
+  <img src="https://github.com/mariaeduarda2212/mariaeduarda2212/blob/main/279670412-5e0ce0fb-c544-4f8c-a307-5849165746d0.png" width="25%" align="right" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=100&lines=Hello%2C+I'm+Kayque+Dias;A+geographer+and+researcher+at+UFPA" width="70%" />
+
+  <br><br>
+</div>
+
+
 <pre>
     📌 Bachelor’s in Geography | Master’s Student
     🛰️ Remote Sensing | GIS | Google Earth Engine
     📊 Environmental Analysis | Applied Programming
 </pre>
-<img src="https://raw.githubusercontent.com/vallauri-ict/formula-1-thespino/master/assets/f1-illustration.gif" height="40" />
+
+<img src="https://raw.githubusercontent.com/vallauri-ict/formula-1-thespino/master/assets/f1-illustration.gif" height="40"/>
 <br>
 
 <div style="display: inline_block"><br>
