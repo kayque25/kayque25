@@ -26,6 +26,12 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-dias-627a64244/)
 
+## 📊 GitHub Summary
+
+![Summary Card](profile-summary-card-output/github_dark/0-profile-details.svg)
+![Repositories Card](profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Commits Card](profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
     
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=kayque25&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=4CAF50&icon_color=4CAF50" alt="GitHub Stats">
