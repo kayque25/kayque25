@@ -11,20 +11,21 @@
 <br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GEE" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Google_Earth_Engine_logo.png/600px-Google_Earth_Engine_logo.png">
-  <img align="center" alt="QGIS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/QGIS_logo_2017.svg/512px-QGIS_logo_2017.svg.png">
+  <img align="center" alt="R" height="40" width="40" style="object-fit: contain; padding: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Python" height="40" width="40" style="object-fit: contain; padding: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" style="object-fit: contain; padding: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Google Earth Engine" height="40" width="40" style="object-fit: contain; padding: 5px;" src="https://github.com/kayque25/kayque25/blob/main/img/google%20-%20Copia.png?raw=true">
+  <img align="center" alt="QGIS" height="40" width="40" style="object-fit: contain; padding: 5px;" src="https://github.com/kayque25/kayque25/blob/main/img/QGIS.png?raw=true">
 </div>
-
 
 
 <br>
     
-[![](https://img.shields.io/badge/Lattes-004080?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/5961292748412062)
-[![](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-dias-627a64244/)
-[![](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Kayque-Dias?ev=hdr_xprf)
+[![](https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/5961292748412062)
+[![](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Kayque-Dias?ev=hdr_xprf)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
+[![](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-dias-627a64244/)
+
     
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=kayque25&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=4CAF50&icon_color=4CAF50" alt="GitHub Stats">
