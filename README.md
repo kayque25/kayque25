@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/mariaeduarda2212/mariaeduarda2212/blob/main/279670412-5e0ce0fb-c544-4f8c-a307-5849165746d0.png" width="25%" align="right" />
+  <img src="https://github.com/https://github.com/kayque25/kayque25/img/Design%20sem%20nome%20(2).png" width="25%" align="right" />
   <br> 
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=120&lines=Hello%2C+I'm+Kayque+Dias;A+geographer+and+researcher+at+UFPA" width="70%" />
   <br><br>
