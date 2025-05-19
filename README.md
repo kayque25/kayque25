@@ -8,6 +8,16 @@
     📊 Environmental Analysis | Applied Programming
 </pre>
 <img src="https://raw.githubusercontent.com/vallauri-ict/formula-1-thespino/master/assets/f1-illustration.gif" height="40" />
+<br>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="GEE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Google_Earth_icon.svg/1024px-Google_Earth_icon.svg.png">
+  <img align="center" alt="QGIS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/QGIS_logo_2017.svg">
+</div>
+
 
 <br>
     
