@@ -20,25 +20,21 @@
 
 
 <br>
-    
+
 [![](https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/5961292748412062)
 [![](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Kayque-Dias?ev=hdr_xprf)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
 [![](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-dias-627a64244/)
 
-## 📊 GitHub Summary
+---
 
-![Summary Card](profile-summary-card-output/github_dark/0-profile-details.svg)
-![Repositories Card](profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![Commits Card](profile-summary-card-output/github_dark/2-most-commit-language.svg)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayque25&theme=solarized) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayque25&theme=solarized) |
+|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayque25&theme=solarized) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayque25&theme=solarized&utcOffset=8) |
 
-    
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=kayque25&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=4CAF50&icon_color=4CAF50" alt="GitHub Stats">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayque25&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&title_color=4CAF50">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayque25&theme=darcula&hide_border=true&background=FFFFFF00&stroke=4CAF50&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&dates=C0C0C0&sideNums=C0C0C0&currStreakNum=C0C0C0" alt="GitHub Streak Stats">
-  <br>
-  <br>
+
+
+---
   <a href="https://www.paypal.com/donate?hosted_button_id=E8X9RDN65GFLW">
   <img align="center" src="https://github.com/kayque25/logos/blob/main/acaii.png?raw=true" height="100" width="210" alt="Buy me an açaí"/>
 </a>
