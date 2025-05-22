@@ -19,7 +19,7 @@
     <img alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
     <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Google Earth Engine" height="40" width="40" src="https://github.com/kayque25/kayque25/blob/main/img/google%20-%20Copia.png?raw=true">
+    <img alt="Google Earth Engine" height="40" width="40" src="https://github.com/kayque25/kayque25/blob/main/img/google.png?raw=true">
     <img alt="QGIS" height="40" width="40" src="https://github.com/kayque25/kayque25/blob/main/img/QGIS.png?raw=true">
   </div>
 
