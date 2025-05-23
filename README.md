@@ -1,10 +1,9 @@
 <div align="center">
-
-  <img src="https://github.com/https://github.com/kayque25/kayque25/img/Design%20sem%20nome%20(2).png" width="25%" align="right" />
   <br> 
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=120&lines=Hello%2C+I'm+Kayque+Dias;A+geographer+and+researcher+at+UFPA" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=120&lines=Hello%2C+I'm+Kayque+Dias;A+geographer+and+researcher+at+UFPA" width="90%" />
+  
   <br><br>
-
+  
   <pre>
 📌 Bachelor’s in Geography | Master’s Student
 🛰️ Remote Sensing | GIS | Google Earth Engine
@@ -12,8 +11,7 @@
   </pre>
 
   <img src="https://raw.githubusercontent.com/vallauri-ict/formula-1-thespino/master/assets/f1-illustration.gif" height="40"/>
-  <br>
-
+  <br><br>
   <!-- Ícones de tecnologias -->
   <div>
     <img alt="R" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
@@ -39,7 +37,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-<br><br><br><br>
+<br>
 
 ---
 
